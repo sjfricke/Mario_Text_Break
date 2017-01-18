@@ -1,3 +1,11 @@
+# PLEASE HELP
+
+I ran into the issue of cross-origin trying to get the textures for my models... please email/message/etc me if you know how to either bypass this as I can't find a way to run a server instances in a chrome extension.
+
+Thanks
+
+--------
+
 # Mario_Text_Break
 Ever wanted Mario to come out and jump break your text for coins?
 
